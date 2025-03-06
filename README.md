@@ -1,0 +1,1 @@
+Simple suicide script that uses teleport and a suicide animation to get you back to a specific coord, FiveGuard kept banning people for spoofed bulletshot when I put a propper suicide script in it so I had to make this
